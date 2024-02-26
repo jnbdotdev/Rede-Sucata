@@ -1,0 +1,318 @@
+header {
+    font-family: 'Gabarito', sans-serif;
+}
+
+header p {
+    font-family: 'Gabarito', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 240);
+    scroll-behavior: smooth;
+}
+
+#head {
+    width: 100%;
+    background-color: black;
+    display: block;
+}
+
+img {
+    max-width: 300px;
+    max-height: 150px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+/* Navigation */
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0px 4px 0px 0px rgb(212, 212, 212);
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+nav ul li{
+    text-align: center;
+    width: 100%;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 100%;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+
+/* Cabeçalho */
+
+header {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header p {
+  margin: 2em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#credits {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8px;
+}
+
+@media screen and (max-width: 600px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgb(255, 255, 255);
+        color: black;
+        box-shadow: 0px 4px 0px 0px rgb(212, 212, 212);
+    }
+    
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        list-style: none;
+        padding: 0;
+        width: 100%;
+    }
+}
+
+/* Site body */
+
+form {
+    text-align: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.campfield {
+    width: 40%;
+    border-color: rgb(92, 91, 91);
+    margin-bottom: 1%;
+}
+
+input[type=submit] {
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 40px;
+    background-color: white;
+    margin-top: 2%;
+    width: 8%;
+    height: 55%;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+}
+
+input[type=button] {
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 40px;
+    background-color: white;
+    margin-top: 2%;
+    width: 8%;
+    height: 55%;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+}
+
+.comboBox{
+  width: 51%;
+  height: 56%;
+  font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+#submitref {
+  margin-top: 2%;
+  width: 8%;
+  height: 55%;
+  font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+  cursor: pointer;
+}
+
+#submitinput {
+  width: 100%;
+  height: 100%;
+}
+
+input[type=text] {
+    width: 50%;
+    height: 55%;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+input[type=number] {
+    width: 50%;
+    height: 55%;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1%;
+    margin-top: 10px;
+}
+
+h3 {
+    display: inline-block;
+    width: 50%;
+    height: 55%;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+}
+
+.content {
+  align-items: center;
+  text-align: center;
+}
+
+/* Table */
+
+table {
+  margin-top: 2%;
+  background-color: white;
+  display: inline-block;
+}
+
+table, th, td {
+  border: 1px solid #262626;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+}
+
+th {
+  background-color: #000000;
+  font-weight: bold;
+  color: white;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background-color: #feffc7;
+}
+
+.tidh {
+  width: 6%;
+  font-weight: 600;
+  text-align: center;
+}
+
+.titemh {
+  width: 30%;
+}
+
+.tprecoh {
+  width: 15%;
+}
+
+.ttipoh {
+  width: 20%;
+}
+
+.tactionsh {
+  width: 15%;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+
+.tid {
+  width: 6%;
+  font-weight: 600;
+  text-align: center;
+}
+
+.titem {
+  width: 30%;
+}
+
+.tpreco {
+  width: 15%;
+}
+
+.ttipo {
+  width: 20%;
+}
+
+.tactions {
+  width: 15%;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}

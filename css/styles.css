@@ -1,0 +1,265 @@
+header {
+    font-family: 'Gabarito', sans-serif;
+}
+
+header p {
+    font-family: 'Gabarito', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 240);
+    scroll-behavior: smooth;
+}
+
+#head {
+    width: 100%;
+    background-color: black;
+    display: block;
+}
+
+img {
+    max-width: 300px;
+    max-height: 150px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+/* Navigation */
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0px 4px 0px 0px rgb(212, 212, 212);
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+nav ul li{
+    text-align: center;
+    width: 100%;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 100%;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+
+/* Cabeçalho */
+
+header {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header p {
+    margin: 2em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#porcoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#lanches {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#espetos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#bebidas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#caldos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    display: block;
+    background-color: rgb(34, 34, 34);
+    width: 100%;
+    padding: 15px 0px 15px 0px;
+    margin: 0;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 32px;
+}
+
+h3 {
+    display: block;
+    background-color: rgb(61, 61, 61);
+    width: 100%;
+    padding: 5px 0px 7px 0px;
+    margin: 0px 0px 10px 0px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+hr {
+    width: 90%;
+    border: 1px dashed rgb(189, 189, 189);
+}
+
+#porcoes {
+    display: inline;
+}
+
+#lanches {
+    display: inline;
+}
+
+#espetos {
+    display: inline;
+}
+
+#bebidas {
+    display: inline;
+}
+
+#caldos {
+    display: inline;
+}
+
+.itens {
+    text-align: left;
+    display: inline-block;
+    align-self: start;
+    margin-left: 5%;
+    font-family: 'Signika', sans-serif;
+}
+
+.openItem {
+    color: #000000;
+    text-align: left;
+    display: inline-block;
+    align-self: start;
+}
+
+.preco {
+    text-align: right;
+    display: inline-block;
+    align-self: end;
+    margin-right: 5%;
+    font-size: 15px;
+}
+
+#credits {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 600px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgb(255, 255, 255);
+        color: black;
+        box-shadow: 0px 4px 0px 0px rgb(212, 212, 212);
+    }
+    
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        list-style: none;
+        padding: 0;
+        width: 100%;
+    }
+
+    .float {
+        left: 47%;
+    }
+}
+
+.division {
+    margin-bottom: 5px;
+    color: white;
+}
+
+
+.float{
+	position: fixed;
+	width: 30px;
+	height: 30px;
+	bottom: -80px;
+	left: 49%;
+    background-color: rgb(0, 0, 0);
+	color:#000000;
+	border-radius: 50px;
+	text-align: center;
+	box-shadow: 2px 2px 3px #999;
+    opacity: 55%;
+    font-size: 14px;
+}
+
+.my-float{
+	margin-top:25%;
+    opacity: 55%;
+    color: rgb(255, 255, 240);
+}

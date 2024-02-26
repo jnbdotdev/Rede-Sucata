@@ -1,0 +1,196 @@
++ Porções
+Anéis de Cebola: 28.90,
+Batata Frita: 29.90,
+Batata Especial: 42.90,
+Calabresa Acebolada: 42.90,
+Dadinho de Tapioca: 36.90,
+Contra Filé Acebolado: 68.90,
+Contra Filé com Gorgonzola: 76.90,
+Torresmo de Rolo: 58.90,
+Carne Seca com Mandioca: 74.90,
+Tulipa: 45.90,
+Frango à Passarinho: 46.90,
+Mandioca Frita: 28.90,
+Mini Pizza: 16.00,
+Pastéis: 34.90,
+Porpetinhas Carne: 38.90,
+Torresmo Tradicional: 36.90,
+Provolone Frio: 35.00,
+Salame: 35.00
+
++ Peixes
+Camarão Porção: 76.90,
+Tilápio: 62.90
+
++ Caldos Gourmet
+(500ml)
+Carne Seca com Mandioca: 28.90,
+Feijão: 22.90,
+Verde: 22.90,
+Mocotó: 28.90
+
++ Porções Conservadas
+Azeitonas: 16.50,
+Batatinhas: 18.00,
+Ovos de Codorna: 18.00,
+Salsichinhas: 15.00,
+Giló: 18.00
+
++ Lanches
+X-Bacon: 22.90,
+X-Bacon Salada: 28.90,
+X-Burguer: 19.50,
+X-Egg: 25.90,
+X-Egg Salada: 28.90,
+X-Salada: 22.90,
+X-Tudo: 38.90,
+X-Calabresa: 24.90
+
++ Espetinhos
+Carne: 10.00,
+Coração: 10.00,
+Frango: 10.00,
+Linguiça: 10.00,
+Queijo: 10.00,
+Kafta: 10.00,
+Panceta: 10.00,
+Pão de Alho: 10.00
+
++ Mix
+Grande: 68.90,
+Pequena: 42.90
+
++ Drinks
+Garibaldi: 28.90,
+Piña Colada: 30.00,
+Jurupiña: 28.90,
+Suco de Macaco: 15.00,
+Negroni: 40.00,
+Boulewandier: 32.90,
+Mojito: 21.90,
+Cuba Libre: 18.00,
+Lagoa Azul: 28.90,
+Sex on the Beach: 30.00,
+Tequirona Cozumel: 32.90,
+Céu e Inferno: 32.90,
+MaracuJack: 40.00,
+Tequila Sunrise: 26.90,
+Gin Tônica Gordons: 31.90,
+Gin Tônica Tanqueray: 41.90
+
++ Bebidas Leves
+Água sem Gás: 4.00,
+Água com Gás: 5.00,
+Água de Coco: 6.50,
+Água Tônica: 6.50,
+H2O: 6.50
+
++ Refrigerantes
+Coca-Cola: 6.50,
+Coca-Cola Zero: 6.50,
+Fanta Laranja: 6.50,
+Fanta Uva: 6.50,
+Guaraná: 6.50,
+Schweppes Citrus: 6.50,
+Schweppes Tônica: 6.50
+
++ Sucos(Lata)
+Abacaxi: 6.50,
+Maracujá: 6.50,
+Manga: 6.50,
+Pêssego: 6.50,
+Uva: 6.50
+
++ Sucos Naturais
+Abacaxi, Laranja, Limão, Maracujá, Kiwi
+Copo: 12.00,
+Jarra: 21.90,
+Limonada Suíça c/Leite Condesado(Copo): 14.00,
+Limonada Suíça c/Leite Condesado(Jarra): 21.90
+
++ Vinhos
+Taça: 16.00,
+Garrafa: Consultar a Casa
+
++ Energéticos
+Monster: 15.00,
+Red Bull: 15.00,
+TNT: 15.00
+
++ Cervejas
+Brahma Duplo Malte: 15.00,
+Eisenbahn: 15.00,
+Original: 15.00,
+Império Puro Malte: 13.00,
+Petra: 13.00,
+Heineken: 18.00
+
++ Cervejas(Lata)
+Brahma Duplo Malte: 7.00,
+Brahma Zero: 7.00,
+Budweiser: 7.00,
+Heineken: 7.50,
+Original: 7.00
+
++ Cervejas(Long Neck)
+Budweiser: 12.00,
+Corona: 12.00,
+Heineken: 12.00,
+Heineken Zero: 12.00,
+Stella: 12.00
+
++ Whisky
+Black Label: 40.00,
+Red Label: 30.00,
+Cavalo Branco: 20.00,
+Jack Daniel's: 35.00,
+Passport: 15.00
+
++ Licor
+Amarula: 22.00
+
++ Cachaças Artesanais
+Coco: 12.00,
+Gengibre: 12.00,
+Limão Siciliano: 12.00,
+Mel: 12.00,
+Maracujá com Pimenta: 12.00,
+Rapadura: 12.00
+
++ Drink's de Frutas
+Sem Álcool: 28.00,
+Caipirinha Velho Barreiro: 23.90,
+Caipirinha Steinhaeger: 25.00,
+Caipirinha Smirnoff: 25.90,
+Saquê de Frutas: 28.00,
+Bombeirinho: 16.00,
+Campari: 18.00,
+Catuaba(Taça): 12.00,
+Cynar: 12.00,
+Choconhaque: 21.90,
+Conhaque Dreher: 12.00,
+Conhaque Domeq: 17.00,
+Contini: 14.00,
+Daikini: 28.00,
+Espanhola(Taça): 18.00,
+Espanhola(Jarra): 32.90,
+Frozen(Jarra): 31.90,
+GT Lata: 10.00,
+Ice Smirnoff: 15.00,
+Jurupinga: 14.00,
+Martini: 14.00,
+Maria Mole: 14.00,
+Menta: 14.00,
+Rum Bacardi Ouro: 18.00,
+Rum Bacardi Carta Branca: 18.00,
+Saquê Seco: 14.00,
+Steinhaeger: 15.00,
+Skol Beats: 15.00,
+Tequila Ouro: 22.00
+
++ Cachaças Tradicionais
+Busca Vida: 18.00,
+Nega Fulo: 18.00,
+Salinas: 12.00,
+São Francisco: 10.00,
+Seleta: 12.00
